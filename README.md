@@ -1,16 +1,5 @@
-# tune_player_app
+# Tune Playera App
 
-A new Flutter project.
+When you click on the colors, a music sound plays
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1716580404](https://github.com/aliabdelnaby/tune_player/assets/70640625/86016ea4-d853-4f7a-9e44-2b3e6594e9cc)
